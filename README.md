@@ -8,24 +8,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop robust and efficient software solutions.\
-🎓 &nbsp;I'm currently studying Data Science M.S. program at the University of Minnesota – Twin Cities.\
-✍️ &nbsp;In my free time, I pursue online courses and write blogs as hobbies/side hustles.\
-💬 &nbsp;I am completely open to discussions and getting to know each other.\
-✉️ &nbsp;You can shoot me an email at silaskanth@gmail.com..!! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](http://www.silaskati.com/) for more details about me. I'm open to feedback and suggestions!
-
-<!--
-**SilasKati/SilasKati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: __he/him/his__
+- 💡 &nbsp;I like to explore new technologies and develop robust and efficient software solutions.
+- 🎓 &nbsp;I'm currently studying Data Science M.S. program at the University of Minnesota – Twin Cities.
+- ✍️ &nbsp;In my free time, I pursue online courses and write blogs as hobbies/side hustles.
+- 💬 &nbsp;I am completely open to discussions and getting to know each other.
+- ✉️ &nbsp;You can shoot me an email at silaskanth@gmail.com..!! I'll try to respond as soon as I can.
+- 📄 &nbsp;Please have a look at my [Résumé](http://www.silaskati.com/) for more details about me. I'm open to feedback and suggestions!
