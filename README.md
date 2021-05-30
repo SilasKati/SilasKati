@@ -12,6 +12,6 @@
 - 💡 &nbsp;I like to explore new technologies and develop robust and efficient software solutions.
 - 🎓 &nbsp;I'm currently studying __Data Science M.S.__ program at the __University of Minnesota – Twin Cities__.
 - ✍️ &nbsp;In my free time, I pursue online courses and write blogs as hobbies/side hustles.
-- 💬 &nbsp;I am completely open to discussions and getting to know each other.
-- ✉️ &nbsp;You can shoot me an email at silaskanth@gmail.com..!! I'll try to respond as soon as I can.
-- 📄 &nbsp;Please have a look at my [Résumé](http://www.silaskati.com/) for more details about me. I'm open to feedback and suggestions!
+- 💬 &nbsp;I'm completely open to discussions and getting to know each other.
+- ✉️ &nbsp;You can shoot me an email at silaskanth@gmail.com...!!! I'll try to respond as soon as I can.
+- 📄 &nbsp;Please have a look at my [Résumé](http://www.silaskati.com/) for more details about me.
