@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+![Silas Kati Banner](https://raw.githubusercontent.com/SilasKati/SilasKati/work_branch/assets/Silas_Kati_Banner.png)
+
+<img alt="Hand_Wave" src="https://raw.githubusercontent.com/SilasKati/SilasKati/work_branch/assets/Hand_Wave.gif" width='70' align="left"/><h2>Hey there! I'm Silas</h2>
 
 <!--
 **SilasKati/SilasKati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
