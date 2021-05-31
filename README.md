@@ -15,3 +15,6 @@
 - 💬 &nbsp;I'm completely open to discussions and getting to know each other.
 - ✉️ &nbsp;You can shoot me an email at silaskanth@gmail.com...!!! I'll try to respond as soon as I can.
 - 📄 &nbsp;Please have a look at my [Résumé](http://www.silaskati.com/) for more details about me.
+
+
+<img alt="Coding" src="https://raw.githubusercontent.com/SilasKati/SilasKati/work_branch/assets/Coding.gif" width="300" align="right"/>
